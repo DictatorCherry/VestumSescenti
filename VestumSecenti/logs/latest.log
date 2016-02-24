@@ -1,0 +1,32 @@
+[01:10:44] [main/INFO]: Logging in with username & password
+[01:10:47] [main/INFO]: Setting user: tigerpax
+[01:10:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:10:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vestum Sescenti, FMLFileResourcePack:Example Mod
+[01:10:56] [Sound Library Loader/INFO]: Sound engine started
+[01:11:04] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[01:11:04] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[01:11:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Vestum Sescenti, FMLFileResourcePack:Example Mod
+[01:11:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:11:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:11:05] [Sound Library Loader/INFO]: Sound engine started
+[01:21:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[01:21:08] [Server thread/INFO]: Generating keypair
+[01:21:08] [Server thread/INFO]: Preparing start region for level 0
+[01:21:09] [Server thread/INFO]: Changing view distance to 3, from 10
+[01:21:09] [Server thread/INFO]: tigerpax[local:E:02e392e5] logged in with entity id 259 at (1132.4876529222604, 4.0, 570.3000000119209)
+[01:21:09] [Server thread/INFO]: tigerpax joined the game
+[01:21:12] [Server thread/INFO]: Saving and pausing game...
+[01:21:12] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/Overworld
+[01:21:12] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/Nether
+[01:21:12] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/The End
+[01:21:14] [Server thread/INFO]: Saving and pausing game...
+[01:21:14] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/Overworld
+[01:21:14] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/Nether
+[01:21:14] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/The End
+[01:21:27] [Client thread/INFO]: Stopping!
+[01:21:27] [Server thread/INFO]: Stopping server
+[01:21:27] [Server thread/INFO]: Saving players
+[01:21:27] [Server thread/INFO]: Saving worlds
+[01:21:27] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/Overworld
+[01:21:27] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/Nether
+[01:21:27] [Server thread/INFO]: Saving chunks for level 'testItemsAndTextures'/The End

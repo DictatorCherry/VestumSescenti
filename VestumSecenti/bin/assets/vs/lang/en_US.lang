@@ -1,0 +1,88 @@
+itemGroup.Vestum Sescenti=Vestum Sescenti
+
+tile.fireOre.name=Ashen Ore
+tile.airOre.name=Aeris Ore
+tile.waterOre.name=Aquas Ore
+tile.lightningOre.name=Stormium Ore
+tile.earthOre.name=Terra Ore
+tile.iceOre.name=Glacies Ore
+
+tile.fireCrystalB.name=Ashen Crystal Block
+tile.airCrystalB.name=Aeris Crystal Block
+tile.waterCrystalB.name=Aquas Crystal Block
+tile.lightningCrystalB.name=Stormium Crystal Block
+tile.earthCrystalB.name=Terra Crystal Block
+tile.iceCrystalB.name=Glacies Crystal Block
+
+tile.fireCOre.name=Ashen Crystalanthis
+tile.waterCOre.name=Aquas Crystalanthis
+tile.aireCOre.name=Aeris Crystalanthis
+tile.earthCOre.name=Terra Crystalanthis
+tile.iceCOre.name=Glacies Crystalanthis
+tile.lightningCOre.name=Stormium Crystalanthis
+
+tile.infusedRock.name=Infused Stone
+
+# ------------
+
+item.pickHead.name=Infused Head
+item.toolRod.name=Infused Rod
+
+item.fireShard.name=Ashen Shard
+item.waterShard.name=Aquas Shard
+item.airShard.name=Aeris Shard
+item.lightningShard.name=Stormium Shard
+item.iceShard.name=Glacies Shard
+item.earthShard.name=Terra Shard
+
+item.vse.name=Mage's Lexicon
+
+item.fireCrystal.name=Ashen Crystal
+item.waterCrystal.name=Aquas Crystal
+item.airCrystal.name=Aeris Crystal
+item.lightningCrystal.name=Stormium Crystal
+item.iceCrystal.name=Glacies Crystal
+item.earthCrystal.name=Terra Crystal
+item.balancedCrystal.name=Balanced Crystal
+
+item.fireSC.name=Ashen Shard Cluster
+item.waterSC.name=Aquas Shard Cluster
+item.airSC.name=Aeris Shard Cluster
+item.earthSC.name=Terra Shard Cluster
+item.iceSC.name=Glacies Shard Cluster
+item.lightningSC.name=Stormium Shard Cluster
+item.balancedSC.name=Balanced Shard Crystal
+
+item.infusedCarbon.name=Ipsum Crystal
+ 
+item.firePick.name=Ashen Pickaxe
+item.waterPick.name=Aquas Pickaxe
+item.earthPick.name=Terra Pickaxe
+item.airPick.name=Aeris Pickaxe
+item.icePick.name=Glacies Pickaxe
+item.lightningPick.name=Storium Pickaxe
+
+item.fireHead.name=Ashen Helmet
+item.fireChest.name=Ashen Chestplate
+item.fireLegs.name=Ashen Leggings
+item.fireBoots.name=Ashen Boots
+item.waterHead.name=Aquas Helmet
+item.waterChest.name=Aquas Chestplate
+item.waterLegs.name=Aquas Leggings
+item.waterBoots.name=Aquas Boots
+item.earthHelmet.name=Terra Helmet
+item.earthChest.name=Terra Chestplate
+item.earthLegs.name=Terra Leggings
+item.earthBoots.name=Terra Boots
+item.airHead.name=Aeris Helmet
+item.airChest.name=Aeris Chestplate
+item.airLegs.name=Aeris Leggings
+item.airBoots.name=Aeris Boots
+item.iceHead.name=Glacies Helmet
+item.iceChest.name=Glacies Chestplate
+item.iceLegs.name=Glacies Leggings
+item.iceBoots.name=Glacies Boots
+item.lightningHead.name=Stormium Helmet
+item.lightningChest.name=Stormium Chestplate
+item.lightningLegs.name=Stormium Leggings
+item.lightningBoots.name=Stormium Boots

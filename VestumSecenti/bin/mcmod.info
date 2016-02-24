@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vs",
+  "name": "Vestum Sescenti",
+  "description": "To provide an explosive sinleplayer gameplay, and To provide team-oriented hyper-combat multi-player gameplay.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tigerpax"],
+  "credits": "The Forge and FML guys, for making this project possible, Azanor and Vazkii for being my inspiration on this project, Caleb for being co-author and co-artist, Sarah for creating the majority of the models and textures, and Robert",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
