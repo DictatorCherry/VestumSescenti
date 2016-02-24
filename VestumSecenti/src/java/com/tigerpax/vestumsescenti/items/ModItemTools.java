@@ -3,7 +3,8 @@ package com.tigerpax.vestumsescenti.items;
 import java.util.Set;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;
-import com.tigerpax.vestumsescenti.Main;
+import com.tigerpax.vestumsescenti.main.Main;
+
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemPickaxe;

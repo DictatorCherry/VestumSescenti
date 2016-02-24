@@ -1,6 +1,6 @@
 package com.tigerpax.vestumsescenti.event;
 
-import com.tigerpax.vestumsescenti.ClientProxy;
+import com.tigerpax.vestumsescenti.main.ClientProxy;
 
 import cpw.mods.fml.common.eventhandler.EventPriority;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;

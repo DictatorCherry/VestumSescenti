@@ -2,7 +2,7 @@ package com.tigerpax.vestumsescenti.client.gui;
 
 import org.lwjgl.opengl.GL11;
 
-import com.tigerpax.vestumsescenti.Main;
+import com.tigerpax.vestumsescenti.main.Main;
 
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.GuiScreen;

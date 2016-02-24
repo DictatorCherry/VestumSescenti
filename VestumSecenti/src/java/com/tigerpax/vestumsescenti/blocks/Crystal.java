@@ -1,7 +1,7 @@
 package com.tigerpax.vestumsescenti.blocks;
 
-import com.tigerpax.vestumsescenti.Main;
 import com.tigerpax.vestumsescenti.items.ModItems;
+import com.tigerpax.vestumsescenti.main.Main;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

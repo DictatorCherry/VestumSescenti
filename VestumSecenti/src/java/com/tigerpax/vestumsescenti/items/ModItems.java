@@ -1,6 +1,7 @@
 package com.tigerpax.vestumsescenti.items;
 
-import com.tigerpax.vestumsescenti.Main;
+import com.tigerpax.vestumsescenti.main.Main;
+
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.player.EntityPlayer;

@@ -1,6 +1,7 @@
 package com.tigerpax.vestumsescenti.items;
 
-import com.tigerpax.vestumsescenti.Main;
+import com.tigerpax.vestumsescenti.main.Main;
+
 import net.minecraft.item.ItemHoe;
 
 public class ModItemHoe extends ItemHoe{
